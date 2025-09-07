@@ -1,7 +1,7 @@
 # 🚦 Traffic Sign Classifier
 
 This project is a deep learning application that classifies German traffic signs using **TensorFlow / Keras** and **MobileNetV2**.  
-<!-- Uploading "Screenshot 2025-09-07 214210.png"... -->
+Uploading "Screenshot 2025-09-07 214210.png"... 
 ## 📌 Project Overview
 - Dataset: [GTSRB - German Traffic Sign Recognition Benchmark](https://benchmark.ini.rub.de/gtsrb_news.html)  
 - Goal: Train a CNN model to recognize and classify different traffic signs.  
@@ -27,4 +27,3 @@ This project is a deep learning application that classifies German traffic signs
      - Predicted traffic sign label.  
      - Confidence score.  
 ```bash
-python train.py
