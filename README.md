@@ -28,4 +28,3 @@ This project is a deep learning application that classifies German traffic signs
    - The app displays:  
      - Predicted traffic sign label.  
      - Confidence score.  
-```bash
